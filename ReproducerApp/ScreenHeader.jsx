@@ -9,7 +9,6 @@ const ScreenHeader = ({
   searchProps,
   withSearch,
   selectableTitle = false,
-  titleColor = 'greyScale.black',
 }) => {
   return (
     <>
